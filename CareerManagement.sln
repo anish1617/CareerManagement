@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CareerManagement", "CareerManagement.csproj", "{A3BE1060-5288-47D2-A660-D1D11CB2237A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerManagement.Test", "..\CareerManagement.Test\CareerManagement.Test.csproj", "{FF6E75FF-BBBD-4F5F-8017-A8DE8826A704}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3BE1060-5288-47D2-A660-D1D11CB2237A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3BE1060-5288-47D2-A660-D1D11CB2237A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3BE1060-5288-47D2-A660-D1D11CB2237A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3BE1060-5288-47D2-A660-D1D11CB2237A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF6E75FF-BBBD-4F5F-8017-A8DE8826A704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF6E75FF-BBBD-4F5F-8017-A8DE8826A704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF6E75FF-BBBD-4F5F-8017-A8DE8826A704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF6E75FF-BBBD-4F5F-8017-A8DE8826A704}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3591537D-26FC-4925-BBC1-29FC0D318F13}
+	EndGlobalSection
+EndGlobal
